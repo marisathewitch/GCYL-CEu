@@ -4623,3 +4623,4 @@ gcyl.multiblock.electric_blast_furnace.tooltip.2=На каждые §a1800K§7, 
 tile.gcyl:gt_alveary.name=GT Пчелиный улей
 for.mutation.condition.metavalueitem=Требует %s в GT Пчелиный улей. (стоимость: %d×(фертильность+1) p/мин)
 gcyl.multiblock.mega_blast_logic.tooltip.2=Ставит в приоритет запараллеленные рецепты выше бонуса нагрева катушек.
+gcyl.material.uranyl_nitrate=Уранил нитрат
